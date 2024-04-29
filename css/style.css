@@ -1,0 +1,23 @@
+.card {
+  display: block;
+  position: relative;
+  margin: 10px auto;
+  width: 80%;
+  max-width: 1440px;
+  border: 1px solid #ccc;
+  background-color: cornsilk;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.card p {
+  padding: 10px;
+  font-family: sans-serif;
+}
+
+.lobster-regular {
+  font-family: "Lobster", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
