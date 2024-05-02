@@ -15,31 +15,27 @@ h1 {
   font-family: Lobster, sans-serif;
 }
 
-p {
-  padding-left: 0.5rem;
-  padding-right: 0.5rem;
-}
-
 .picture {
   display: block;
   margin: auto;
   width: 80%;
-  border-radius: 8px;
+  border-radius: 1rex;
 }
 
 .card {
-  padding-left: 1rem;
-  padding-right: 1rem;
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  padding-bottom: 1rem;
   display: block;
   position: relative;
-  margin: 10px auto;
+  margin: 1rex auto;
   width: 80%;
   max-width: 1080px;
 
-  border: 1px solid #ccc;
-  border-radius: 8px;
+  border: 0.1rex solid gainsboro;
+  border-radius: 1rex;
   background-color: cornsilk;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  box-shadow: 0 0.5rex 1rex rgba(0,0,0,0.1);
   overflow: hidden;
 }
 
@@ -59,6 +55,12 @@ p {
   font-style: italic;
 }
 
+.card object {
+  height: 50vh;
+  width: 100%;
+  margin: auto;
+}
+
 .card:last-of-type {
   margin-bottom: 10%;
 }
@@ -72,7 +74,7 @@ footer ul {
 footer ul li {
   padding-left: 0.5rem;
   padding-right: 0.5rem;
-  border-right: 1px solid black;
+  border-right: 0.1rex solid black;
   display: inline;
   list-style-type: none;
 }
