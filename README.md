@@ -7,6 +7,7 @@
 * CSS Positioning https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Positioning
 * GitHub https://github.com/madenu
 * LinkedIn https://www.linkedin.com/in/matthiasdenu/
+* Let's Encrypt https://letsencrypt.org
 
 ## Interesting links to check out later
 * Disqus https://disqus.com/
