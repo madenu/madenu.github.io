@@ -8,6 +8,5 @@
 * GitHub https://github.com/madenu
 * LinkedIn https://www.linkedin.com/in/matthiasdenu/
 
-
 ## Interesting links to check out later
 * Disqus https://disqus.com/
